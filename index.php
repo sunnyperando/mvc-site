@@ -9,6 +9,7 @@
 
     </head>
     <body> <!--  Route -->
+        <h1>Hello!</h1>
         <?php include 'nav.php';
               include "config.php"; ?>
 
