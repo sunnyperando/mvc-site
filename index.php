@@ -9,7 +9,11 @@
 
     </head>
     <body> <!--  Route -->
+<<<<<<< HEAD
         <h1>Hello! </h1>
+=======
+        <h1>Hello World!</h1>      
+>>>>>>> hello-comment
         <?php include 'nav.php';
               include "config.php"; ?>
 
