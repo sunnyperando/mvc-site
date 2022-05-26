@@ -10,10 +10,14 @@
     </head>
     <body> <!--  Route -->
 <<<<<<< HEAD
+<<<<<<< HEAD
         <h1>Hello! </h1>
 =======
         <h1>Hello World!</h1>      
 >>>>>>> hello-comment
+=======
+        <h1>Hello! </h1>
+>>>>>>> 6ba4396c800fec399a17637318a7e554a328da2d
         <?php include 'nav.php';
               include "config.php"; ?>
 
